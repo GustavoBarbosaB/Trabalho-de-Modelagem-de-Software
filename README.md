@@ -4,7 +4,7 @@
 
 > Foi usado o Astah Community para o projeto dos diagramas.
 
-Neste projeto é descrito os seguintes pontos:
+**Neste projeto é descrito os seguintes pontos:**
 
 > 1. Contexto da aplicação
 > 2. Requisitos funcionais
