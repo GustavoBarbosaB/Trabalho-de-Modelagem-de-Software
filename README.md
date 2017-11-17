@@ -1,1 +1,5 @@
-Neste repositório está presente alguns arquivos referentes aos diagramas de sequencia e de comunicação - Trabalho de Modelagem de Software
+# Modelagem de software
+
+*Neste repositÃ³rio estÃ¡ presente arquivos referentes aos diagramas de sequencia e de comunicaÃ§Ã£o.*
+
+> Foi usado o Astah Community para o projeto dos diagramas
